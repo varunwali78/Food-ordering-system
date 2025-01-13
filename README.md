@@ -1,4 +1,4 @@
-# Food Ordering Web App (MERN Stack)
+# Food Ordering System
 
 ## Table of Contents
 
@@ -8,9 +8,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
-- [API Documentation](#api-documentation)
-- [Contributing](#contributing)
-- [Contact](#contact)
 
 ## Introduction
 
@@ -21,7 +18,6 @@ This is a full-stack food ordering web application built using the MERN stack (M
 - User authentication and authorization
 - Browse food items
 - Add items to the cart and place orders
-- Stripe Payment Integration: Secure and reliable payment processing using Stripe.
 - Order tracking
 - Admin panel to manage menu items, orders
 
@@ -29,7 +25,6 @@ This is a full-stack food ordering web application built using the MERN stack (M
 
 - **Frontend:** React.js, React Context API, React Router
 - **Backend:** Node.js, Express.js
-- **Payment Gateway:** Stripe
 - **Database:** MongoDB
 - **Authentication:** JWT (JSON Web Tokens)
 - **Styling:** CSS
@@ -119,7 +114,6 @@ Access the customer-facing app at http://localhost:5173.
 Access the admin app at http://localhost:5174.
 Register as a new user or log in with existing credentials.
 Browse the menu, add items to the cart, and place an order.
-Pay using dummy visa card
 Use the admin panel to manage orders, menu items.
 
 ## Screenshots
@@ -132,19 +126,3 @@ Use the admin panel to manage orders, menu items.
 ![Capture4](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/f41881c6-e148-4215-9953-458bbe602007)
 ![Capture5](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/34e366fa-8ee5-4f77-a5e0-d5d4ea294672)
 ![Capture6](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/1894f642-ea89-42de-ad74-de173c6c42aa)
-
-## API Documentation
-
-The API endpoints for the backend can be documented using tools like Postman or Swagger. Include endpoints for user authentication, menu items, orders, and more.
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request with your changes. Make sure to follow the code style and include relevant tests.
-
-## Contact
-
-For any questions or suggestions, feel free to contact me.
-
-Happy coding!
-
-Feel free to customize this template according to your specific project details and requirements.
