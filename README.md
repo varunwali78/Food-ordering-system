@@ -31,11 +31,6 @@ This is a full-stack food ordering web application built using the MERN stack (M
 
 ## Installation
 
-### Prerequisites
-
-- Node.js
-- MongoDB
-
 ## Backend Setup
 
 Navigate to the backend directory:
