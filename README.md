@@ -46,12 +46,6 @@ Install dependencies:
 npm install
 ```
 
-Create a .env file in the backend directory and add the following:
-
-```sh
-JWT_SECRET="random#secret"
-```
-
 Start the backend server:
 
 ```sh
